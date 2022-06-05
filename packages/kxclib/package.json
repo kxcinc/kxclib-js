@@ -1,0 +1,10 @@
+{
+  "name": "kxclib",
+  "version": "0.0.2",
+  "type": "commonjs",
+  "repository": "https://github.com/kxcteam/kxclib-js",
+  "publishConfig": {
+    "registry":"https://registry.npmjs.org/"
+  },
+  "license": "Apache-2.0"
+}

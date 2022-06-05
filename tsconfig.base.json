@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@kxc/kxclib-version-info": ["packages/kxclib-version-info/src/index.ts"],
+      "@kxcteam/kxclib": ["packages/kxclib/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

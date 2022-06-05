@@ -1,5 +1,8 @@
 {
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
-  "projects": {}
+  "projects": {
+    "kxclib": "packages/kxclib",
+    "kxclib-version-info": "packages/kxclib-version-info"
+  }
 }
